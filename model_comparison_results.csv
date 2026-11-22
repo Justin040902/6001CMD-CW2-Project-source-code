@@ -1,0 +1,5 @@
+,CV ROC-AUC (Mean),Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression,0.7633,0.7548,0.2662,0.6238,0.3732,0.7722
+Random Forest,0.7907,0.8384,0.378,0.5898,0.4607,0.7998
+Gradient Boosting,0.7955,0.898,0.6567,0.2694,0.382,0.8059
+Voting Ensemble (RF+GB),0.7969,0.8921,0.5535,0.4008,0.4649,0.8075
